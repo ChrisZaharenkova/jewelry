@@ -894,7 +894,12 @@ padding: 20px;
 /*SIDEBAR---------------------------------------------------------------------------*/
 .catalogPage{padding: 50px 0;}
 .catalogPage__title{margin-bottom: 50px;}
-.catalogPage__container{display: flex;}
+.catalogPage__container{display: flex;margin: 0 0 80px 0;}
+@media(max-width:479px){
+    .catalogPage__container{
+       
+        margin: 0 0 50px 0;}
+}
 .sidebar{
     flex: 0 0 250px;
 }
