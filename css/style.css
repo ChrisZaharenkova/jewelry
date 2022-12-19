@@ -1459,9 +1459,7 @@ width: 200px;height: 40px;background-color: white;border-radius: 5px;transition:
     .titleblock-about-part1__text{
         font-size: 14px;
     }
-    .about-part1__price{
-        font-size: 18px;
-    }
+    
     .sizeblock-about-part1__row{
         flex-wrap: wrap;
         
